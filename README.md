@@ -12,7 +12,7 @@
   <div align="center"> 
     <a href="https://github.com/lucaseduardo1656">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo1656&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=C0C0C0&bg_color=1C1C1C"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo1656&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=1C1C1C" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo1656&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=1C1C1C" />
   </div>
   
 ## 
