@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/>
 
 ### Hi!!! 👋
 
@@ -11,8 +11,8 @@
 
   <div align="center"> 
     <a href="https://github.com/lucaseduardo1656">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo1656&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=C0C0C0&bg_color=1C1C1C"/> 
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo1656&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=1C1C1C" />
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo1656&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=DCDCDC&text_color=DCDCDC&bg_color=1C1C1C"/> 
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo1656&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=1C1C1C" />
   </div>
   
 ## 
@@ -29,4 +29,4 @@
   <a href="https://www.instagram.com/lucaseduardo_111/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
