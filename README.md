@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:3B85D9,100:251da2&text=%20Hi%20,%20I'm%20Lucas&fontColor=ffff"/>
 
 - 🎓 Pursuing a degree in Systems Information at PUC Minas
-- 💻 Enthusiast for web and mobile development
+- 💻 Enthusiast for technology
 - 🌱 Always seeking to learn something new
 
 ##
